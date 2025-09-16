@@ -10,6 +10,4 @@ Add your project description and instructions here.
 
 Describe how to use your project.
 
-## License
-
-Add license information here.
+#
